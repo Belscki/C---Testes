@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Calculadora
+namespace LeitorEscritorConsole
 {
     class Program
     {
